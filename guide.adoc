@@ -1,0 +1,23 @@
+= Quay Repository Creation
+ifdef::env-github[]
+:imagesdir:
+endif::[]
+ifndef::env-github[]
+:imagesdir: ./
+endif::[]
+
+This guide serves as a demonstration for creating a new container repository in https://quay.io[Quay]
+
+== Prerequisites: 
+Quay.io account - you can register for a Quay account https://quay.io/signin/[here]
+
+Docker installed - follow Docker's https://docs.docker.com/install/[documentation] to find the correct installation for your system
+
+== Step One: Complete Questionnaire and Join SIG
+
+
+== Step Two: Publish Container Image in Connect
+
+
+== Step Three: Install Openshift Container Platform (OCP) for Testing
+
