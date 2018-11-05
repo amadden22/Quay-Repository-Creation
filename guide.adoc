@@ -30,6 +30,25 @@ image::2.png[]
 image::3.png[]
 ---
 == Step Two: Build Container
+Now that your container repository is setup, build your container. I'll be building a simple Apache web server, using a RHEL base image. You can find the Dockerfile https://github.com/RHC4TP/starter/blob/master/Container%20Zone/Examples/WebServer_Dockerfile_RHEL[here]. +
+
+*_Build the Container_*
+----
+docker build . 
+----
+*_Run the Container_*
+----
+docker run -d -p 8080:80 <IMAGE ID>
+----
+*_Tag the active container to an image name_*
+----
+docker commit <CONTAINER ID> quay.io/username/repo
+----
+
+The method above describes creating an image based off an active container. If you'd like to build an image from the Dockerfile and tag it right away, try this:
+----
+docker build -t quay.io/username/repo . 
+----
 
 == Step Three: Push Container
 
