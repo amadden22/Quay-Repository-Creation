@@ -15,10 +15,17 @@ Click on "Create New Repository"
 
 image::new_repo.png[]
 
+Set the repository type to "Container Image Repository" and give it a name. You can add a description if you'd like.
 
-Set the repository type to "Container Image Repository" and give it a name. Set the repository to public and empty. Then click "Create Public Repository"
+image::repo_setup1.png[]
 
-image::setup_repo.png[]
+Set the repository to public
+
+image::repo_setup2.png[]
+
+Initialize as empty. Then click "Create Public Repository"
+
+image::repo_setup3.png[]
 
 == Step Two: Build and Push Container
 
