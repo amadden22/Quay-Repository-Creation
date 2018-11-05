@@ -3,7 +3,7 @@ ifdef::env-github[]
 :imagesdir: ../assets/
 endif::[]
 
-This guide serves as a demonstration for creating a new container repository in https://quay.io[Quay]
+This guide serves as a demonstration for creating a new container repository in https://quay.io[Quay]. Here we'll walkthrough creating a repository for container images, building and tagging your container locally, pushing the image to Quay, and pulling images. 
 
 == Prerequisites: 
 *Quay.io account* - you can register for a Quay account https://quay.io/signin/[here]
@@ -52,7 +52,7 @@ docker build -t quay.io/username/repo .
 
 == Step Three: Push Image
 
-Now we can push our container image to our repository we created. 
+Now we can push our container image to our repository we created
 
 *_Login to Quay using Docker_*
 ----
