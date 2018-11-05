@@ -14,19 +14,21 @@ Docker installed - follow Docker's https://docs.docker.com/install/[documentatio
 *_Click on "Create New Repository"_*
 
 image::new_repo.png[]
+---
 
 *_Set type to "Container Image Repository" and input a repository name. Optionally, add a description._*
 
 image::1.png[]
+---
 
 *_Set the repository to public_*
 
 image::2.png[]
-
+---
 *_Initialize as empty. Then click "Create Public Repository"_*
 
 image::3.png[]
-
+---
 == Step Two: Build and Push Container
 
 == Step Three: Pull Container
