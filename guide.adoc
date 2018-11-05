@@ -11,7 +11,7 @@ Quay.io account - you can register for a Quay account https://quay.io/signin/[he
 Docker installed - follow Docker's https://docs.docker.com/install/[documentation] to find the correct installation for your system
 
 == Step One: Create Repository
-image::new.png
+image::[]
 == Step Two: Build and Push Container
 
 == Step Three: Pull Container
