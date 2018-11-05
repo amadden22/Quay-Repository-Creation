@@ -13,12 +13,10 @@ Quay.io account - you can register for a Quay account https://quay.io/signin/[he
 
 Docker installed - follow Docker's https://docs.docker.com/install/[documentation] to find the correct installation for your system
 
-== Step One: Complete Questionnaire and Join SIG
-++++
-<iframe src='https://gfycat.com/ifr/WeepyKlutzyFattaileddunnart' frameborder='0' scrolling='no' width='2560' height='1600' allowfullscreen></iframe>
-++++
-== Step Two: Publish Container Image in Connect
+== Step One: Create Repository
 
 
-== Step Three: Install Openshift Container Platform (OCP) for Testing
+== Step Two: Build and Push Container
+
+== Step Three: Pull Container
 
