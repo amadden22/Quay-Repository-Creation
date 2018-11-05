@@ -11,19 +11,19 @@ Quay.io account - you can register for a Quay account https://quay.io/signin/[he
 Docker installed - follow Docker's https://docs.docker.com/install/[documentation] to find the correct installation for your system
 
 == Step One: Create Repository
-Click on "Create New Repository" 
+*Click on "Create New Repository"*
 
 image::new_repo.png[]
 
-Set the repository type to "Container Image Repository" and give it a name. You can add a description if you'd like.
+*Set the repository type to "Container Image Repository" and give it a name. You can add a description if you'd like.*
 
 image::1.png[]
 
-Set the repository to public
+*Set the repository to public*
 
 image::2.png[]
 
-Initialize as empty. Then click "Create Public Repository"
+*Initialize as empty. Then click "Create Public Repository"*
 
 image::3.png[]
 
