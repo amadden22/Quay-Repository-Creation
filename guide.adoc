@@ -14,7 +14,7 @@ Quay.io account - you can register for a Quay account https://quay.io/signin/[he
 Docker installed - follow Docker's https://docs.docker.com/install/[documentation] to find the correct installation for your system
 
 == Step One: Create Repository
-[!Demo
+video::create.mov[]
 
 == Step Two: Build and Push Container
 
