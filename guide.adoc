@@ -60,8 +60,9 @@ docker login quay.io
 ----
 
 *_Push the image_*
+----
 docker push quay.io/username/repo
-
+----
 == Step Four: Pull Container
 With our image pushed to our repository, you can now pull the image and make changes locally
 ----
