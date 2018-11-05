@@ -29,7 +29,10 @@ image::2.png[]
 
 image::3.png[]
 ---
-== Step Two: Build and Push Container
+== Step Two: Build Container
 
-== Step Three: Pull Container
+== Step Three: Push Container
+
+== Step Four: Pull Container
+
 
